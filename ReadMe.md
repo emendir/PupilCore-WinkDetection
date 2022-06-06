@@ -85,3 +85,7 @@ def Start():
 if __name__ == "__main__":
     Start()
 ```
+
+## Links
+This project's IPFS URL:  
+[ipns://k2k4r8nismm5mmgrox2fci816xvj4l4cudnuc55gkfoealjuiaexbsup#PupilCore-WinkDetection](https://ipfs.io/ipns/k2k4r8nismm5mmgrox2fci816xvj4l4cudnuc55gkfoealjuiaexbsup#PupilCore-WinkDetection)
